@@ -5,11 +5,9 @@ Snake VS is a two player snake game written in Lua to work with [LÖVE framework
 The project is based on trivvz's code of CS50 youtube videos: [part 1](https://youtu.be/ld_xcXdRez4), [part 2](https://youtu.be/UOzRK3p26Dw)
 
 snake50 is a Snake demo taught during [CS50tv Twitch](https://www.twitch.tv/cs50tv) livestream.
-
 Original snake50 project files are available in [Colton Ogden's repository](https://github.com/coltonoscopy/snake50).
 
 Snake Game is an enhanced version of snake50 that added some options and nicer graphics.
-
 Original Snake Game project files are available in [Tomasz Wojdat's repository](https://github.com/trivvz/Snake-Game).
 
 Original Snake VS project files are available in [Bahaa Gomaa's repository](https://github.com/BahaaGomaa/Snake-VS).
@@ -56,7 +54,7 @@ e.g. making a quick turn from moving `LEFT` to `UP` and then to `RIGHT` before s
 
 * You can change the variable TILE_SIZE to 20 in [main.lua](https://github.com/BahaaGomaa/Snake-VS/blob/main/main.lua). to play the game in a smaller version.
 
-* Snake VS is made with a bit of creativity and some research plus a lot of copying and pasting =)
+* Snake VS is made with a bit of creativity and some research plus a lot of copying and pasting  =)
 
 ## To-Do list
 
