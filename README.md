@@ -54,6 +54,8 @@ e.g. making a quick turn from moving `LEFT` to `UP` and then to `RIGHT` before s
 
 * You can change the variable TILE_SIZE to 20 in [main.lua](https://github.com/BahaaGomaa/Snake-VS/blob/main/main.lua). to play the game in a smaller version.
 
+* In order to change the settings you have to click on the setting you want in the settings tab, the purple colored last column shows the current configuration.
+
 * Snake VS is made with a bit of creativity and some research plus a lot of copying and pasting  =)
 
 ## To-Do list
