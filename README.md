@@ -50,13 +50,15 @@ If you reach the edge of the screen your snake will loop from the other side of 
 * There is a known bug where fast player input could result in player death, 
 e.g. making a quick turn from moving `LEFT` to `UP` and then to `RIGHT` before snake even moves by one tile which will result in instant collision with the rest of snake body and thus losing a life.
 
-* Switching the option of drawing grid lines to off increases FPS by a good margin because it's treated as a tile grid object. (give it a try if you have a potato pc like me)
+* In order to change the settings you have to click on the setting you want in the settings tab, the purple colored last column shows the current configuration.
 
 * You can change the variable TILE_SIZE to 20 in [main.lua](https://github.com/BahaaGomaa/Snake-VS/blob/main/main.lua). to play the game in a smaller version.
 
-* In order to change the settings you have to click on the setting you want in the settings tab, the purple colored last column shows the current configuration.
+* Switching the option of drawing grid lines to off increases FPS by a good margin because it's treated as a tile grid object. (give it a try if you have a potato pc like me)
 
 * Snake VS is made with a bit of creativity and some research plus a lot of copying and pasting  =)
+
+* Any feedback is appreciated.
 
 ## To-Do list
 
